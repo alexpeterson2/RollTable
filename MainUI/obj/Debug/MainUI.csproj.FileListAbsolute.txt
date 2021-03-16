@@ -1,0 +1,15 @@
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\bin\Debug\MainUI.exe.config
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\bin\Debug\MainUI.exe
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\bin\Debug\MainUI.pdb
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainUI.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainUI_MarkupCompile.cache
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainUI_MarkupCompile.lref
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainUI.g.resources
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainUI.Properties.Resources.resources
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainUI.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainUI.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainUI.exe
+C:\Users\Owner\Documents\GitHub\RollTable\MainUI\obj\Debug\MainUI.pdb
